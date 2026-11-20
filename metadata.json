@@ -1,0 +1,6 @@
+{
+  "name": "DukaanSaathi AI",
+  "description": "WhatsApp-style Hinglish AI business companion for Indian local shopkeepers, kiranas, and freelancers — smart inventory tracking, pricing advisor with margin guardrails, and WhatsApp customer message generator.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
